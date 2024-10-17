@@ -1,4 +1,4 @@
- Hi there 👋, Im Luiz Felipe Vilhena 
+ Hi 👋, I'm Luiz Felipe Vilhena 
 
 💻 Developer in constant evolution 
 🐱‍💻Technology Enthusiast 
